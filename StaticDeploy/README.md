@@ -13,9 +13,9 @@ terraform apply
 # Access Website:
 There are three ways to access this static website:
     
-1. Access via CloundFront: [link](https://dd3tdyeek5tbs.cloudfront.net)
-2. Access via website-endpoint : [link](http://nguyenquybao.s3-website-us-west-2.amazonaws.com/)
-3. Access via S3 Object url: [link](https://nguyenquybao.s3.us-west-2.amazonaws.com/index.html)
+1. Access via CloundFront: [https://dd3tdyeek5tbs.cloudfront.net](https://dd3tdyeek5tbs.cloudfront.net)
+2. Access via website-endpoint : [http://nguyenquybao.s3-website-us-west-2.amazonaws.com/](http://nguyenquybao.s3-website-us-west-2.amazonaws.com/)
+3. Access via S3 Object url: [https://nguyenquybao.s3.us-west-2.amazonaws.com/index.html](https://nguyenquybao.s3.us-west-2.amazonaws.com/index.html)
 
 # How did I do
 
