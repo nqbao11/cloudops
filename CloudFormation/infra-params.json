@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "Creator",
+        "ParameterValue": "BaoNQ24"
+    },
+    {
+        "ParameterKey": "VpcCIDR",
+        "ParameterValue": "10.0.0.0/16"
+    },
+    {
+        "ParameterKey": "ImageID",
+        "ParameterValue": "ami-0ee23bfc74a881de5"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.small"
+    }
+]

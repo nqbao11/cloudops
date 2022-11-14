@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name myteststack --template-body file://infra.yml --parameters file://infra-params.json --capabilities CAPABILITY_NAMED_IAM --profile udacity
